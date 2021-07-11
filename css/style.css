@@ -1,0 +1,18 @@
+.hidden {
+    display: none;
+}
+
+#clock { text-align: center; color: white}
+
+#login-form { text-align: center; }
+
+#greeting { text-align: center; color: white}
+
+#todo-list { text-align: center;  color: gray}
+
+#todo-form { text-align: center; }
+
+#quote { text-align: center; color: gray}
+
+#weather { text-align: center; color: gray}
+  
